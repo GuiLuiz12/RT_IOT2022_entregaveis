@@ -1,0 +1,12 @@
+{
+  "rows": 123117,
+  "columns_after_index_drop": 84,
+  "target": "Attack_type",
+  "classes": 12,
+  "categorical_features_detected": [
+    "proto",
+    "service"
+  ],
+  "numeric_features_detected": 81,
+  "total_missing_values": 0
+}
